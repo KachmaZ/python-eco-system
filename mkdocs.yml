@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Kachmazov's docs
+nav:
+  - Домашняя: index.md
+  - Первая лабораторная: lab1.md
+  - Вторая лабораторная: lab2.md
+  - Контакты: contacts.md
+theme:
+  name: mkdocs
+  locale: ru
+  color_mode: dark
+  custom_dir: assets/
