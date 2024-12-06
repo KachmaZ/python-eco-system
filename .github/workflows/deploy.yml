@@ -33,7 +33,7 @@ jobs:
 
       - name: Validate and Minify CSS
         run: |
-          postcss site/assets/css/styles.css --use autoprefixer cssnano -o site/assets/css/styles.min.css
+          postcss site/css/base.css --use autoprefixer cssnano -o site/css/base.min.css
 
       - name: Validate HTML
         run: |
