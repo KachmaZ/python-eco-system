@@ -1,8 +1,8 @@
 site_name: Kachmazov's docs
 nav:
-  - Домашняя: index.md
-  - Первая лабораторная: lab1.md
-  - Вторая лабораторная: lab2.md
+  - Главная: index.md
+  - №1 Отчёт: lab1.md
+  - №2 Отчёт: lab2.md
   - Контакты: contacts.md
 theme:
   name: mkdocs
